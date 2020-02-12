@@ -14,7 +14,7 @@ In this module you will
 Assignments: Each of the following assignments will be worth points
 
     1) Due Thursday 2/6 by midnight     - 10 Points: D2 Discussion
-    2) Due Wednesday 2/10 by midnight   - 20 Point Lab: Ticket Number Lab
+    2) Due Wednesday 2/12 by midnight   - 20 Point Lab: Ticket Number Lab
     3) Due Friday 2/14 by midnight      - 20 Point Assignment: Food Truck POS 
 
 The Module 2 directory contains the following folders/files. Read them in this order
